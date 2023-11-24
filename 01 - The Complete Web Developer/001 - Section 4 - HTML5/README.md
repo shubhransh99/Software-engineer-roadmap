@@ -17,4 +17,4 @@
 
 - **Resources:**
     - HTML Tutorial [w3school](https://www.w3schools.com/html/default.asp)
-    - [MDN Web Docs](https://developer.mozilla.org/en-US/) - another alternative to web technologies 
+    - [MDN Web Docs](https://developer.mozilla.org/en-US/) - another alternative to w3school for web technologies 
