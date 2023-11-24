@@ -10,7 +10,7 @@
     - ```<img src='path to image here'>``` this tag is for adding images
     - There are some self closing tags like ```<br>``` and ```<hr>```
     - Anchor tag is used to link pages
-    - By default web Server Returns index.html page
+    - By default web Server Returns ```index.html``` page
     - Absolute vs Relative Path
         - With relative file paths, the files you intend to reference are located in the same folder of your website folder structure
         - On the other hand, with absolute file paths, you refer to external resources located elsewhere on the web
