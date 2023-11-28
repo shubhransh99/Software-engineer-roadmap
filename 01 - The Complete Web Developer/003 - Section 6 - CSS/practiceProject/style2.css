@@ -1,0 +1,15 @@
+/* Selector {
+    Property: Value;
+} */
+
+h2 {
+    color: blue;
+}
+
+p {
+    color: pink;
+}
+
+p { 
+    color: aqua;
+}
