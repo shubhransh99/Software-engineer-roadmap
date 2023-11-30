@@ -1,24 +1,56 @@
 /* Selector {
     Property: Value;
 } */
+* {
+    text-align: right;
+}
 body {
     background-image: url(https://images.unsplash.com/photo-1701079169931-efac6c6847ce?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
     background-size: cover;
 }
-h2 {
-    color: red;
+
+h2 , p {
+    color: #aa4139;
+    text-align:center;
+    border: 5px solid rgba(255, 0, 217, 0.453);
     cursor: pointer;
 }
-
+img {
+    float: right;
+}
+footer {
+    clear: both;
+    text-align: center;
+}
 p {
     color: pink;
 }
 
 p { 
     color: aqua;
+    line-height: 20px;
+    text-decoration: dashed;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 li {
     list-style-type: none;
     display: inline-block;
+}
+
+.webtext {
+    border: 5px dashed green;
+}
+
+.active {
+    color: red;
+}
+
+#div1 {
+    background-color: rgb(102, 32, 149,0.5);
+}
+
+#div2 {
+    background-color: rgba(254, 0, 0, 0.5);
 }
